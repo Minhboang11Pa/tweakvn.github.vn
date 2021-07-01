@@ -1,0 +1,12 @@
+Package: com.tweakvn.github.vn
+Version: 1.2
+Section: Utilities
+Maintainer: tdz <minhboang11@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/1.deb
+Size: 1,138,274
+MD5sum: 3375f473c7cb597da471ec8057f46295
+Desciption: REPO vn
+Name: REPO vn
+Author: TDZ
+
